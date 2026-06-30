@@ -1,4 +1,5 @@
 What are the Advantages and Disadvantages of White Box Testing?
+
 It checks each branch and each statement in the code.
 It helps to find errors at an early stage.
 It removes unnecessary or extra lines of code (code optimization).
