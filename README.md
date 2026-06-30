@@ -1,12 +1,13 @@
 What are the Advantages and Disadvantages of White Box Testing?
-Advantages of White Box Testing
 It checks each branch and each statement in the code.
 It helps to find errors at an early stage.
 It removes unnecessary or extra lines of code (code optimization).
 It helps to identify runtime errors and exception handling issues.
 It does not require a user interface for testing.
 It helps to detect complex logic errors in the program.
-Disadvantages of White Box Testing
+
+Disadvantages 
+
 The tester must have programming knowledge.
 It focuses only on internal code and may miss external issues.
 It can produce false-positive results.
